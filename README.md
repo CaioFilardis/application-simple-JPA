@@ -94,16 +94,6 @@ Você pode executar as operações diretamente da sua IDE (Eclipse, IntelliJ, et
 
 ---
 
-## 🖼️ Preview do Banco de Dados
-
-A imagem abaixo mostra a estrutura da tabela `pessoa` no banco de dados após a execução do `TransitionProgram.java`.
-
-![Preview do Banco de Dados Localhost](URL_DA_SUA_IMAGEM_AQUI)
-
-> **Nota:** Substitua `URL_DA_SUA_IMAGEM_AQUI` pelo link de uma captura de tela do seu phpMyAdmin ou cliente de banco de dados mostrando os dados na tabela.
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **Caio Filardis**.
